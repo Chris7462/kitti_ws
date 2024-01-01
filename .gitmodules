@@ -10,3 +10,6 @@
 [submodule "src/localization"]
 	path = src/localization
 	url = git@github.com:Chris7462/localization.git
+[submodule "src/kitti_to_ros2bag"]
+	path = src/kitti_to_ros2bag
+	url = git@github.com:Chris7462/kitti_to_ros2bag.git
