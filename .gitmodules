@@ -1,15 +1,15 @@
 [submodule "src/trajectory_server"]
-	path = src/trajectory_server
+	path = src/utilities/trajectory_server
 	url = git@github.com:Chris7462/trajectory_server.git
 [submodule "src/kitti_urdf"]
-	path = src/kitti_urdf
+	path = src/utilities/kitti_urdf
 	url = git@github.com:Chris7462/kitti_urdf.git
 [submodule "src/kitti_launches"]
-	path = src/kitti_launches
+	path = src/utilities/kitti_launches
 	url = git@github.com:Chris7462/kitti_launches.git
 [submodule "src/localization"]
 	path = src/localization
 	url = git@github.com:Chris7462/localization.git
 [submodule "src/kitti_to_ros2bag"]
-	path = src/kitti_to_ros2bag
+	path = src/utilities/kitti_to_ros2bag
 	url = git@github.com:Chris7462/kitti_to_ros2bag.git
