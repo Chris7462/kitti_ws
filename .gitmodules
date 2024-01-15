@@ -19,3 +19,6 @@
 [submodule "src/localization/ekf_localizer"]
 	path = src/localization/ekf_localizer
 	url = git@github.com:Chris7462/ekf_localizer.git
+[submodule "src/perception/yolo_object_detection"]
+	path = src/perception/yolo_object_detection
+	url = git@github.com:Chris7462/yolo_object_detection.git
