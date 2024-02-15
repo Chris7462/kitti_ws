@@ -22,3 +22,6 @@
 [submodule "src/perception/yolo_object_detection"]
 	path = src/perception/yolo_object_detection
 	url = git@github.com:Chris7462/yolo_object_detection.git
+[submodule "src/localization/wheel_odom_node"]
+	path = src/localization/wheel_odom_node
+	url = git@github.com:Chris7462/wheel_odom_node.git
