@@ -1,27 +1,27 @@
-[submodule "src/utilities/trajectory_server"]
-	path = src/utilities/trajectory_server
-	url = git@github.com:Chris7462/trajectory_server.git
-[submodule "src/utilities/kitti_urdf"]
-	path = src/utilities/kitti_urdf
-	url = git@github.com:Chris7462/kitti_urdf.git
-[submodule "src/utilities/kitti_launches"]
-	path = src/utilities/kitti_launches
-	url = git@github.com:Chris7462/kitti_launches.git
-[submodule "src/utilities/kitti_to_ros2bag"]
-	path = src/utilities/kitti_to_ros2bag
-	url = git@github.com:Chris7462/kitti_to_ros2bag.git
-[submodule "src/localization/kalman_filter"]
-	path = src/localization/kalman_filter
-	url = git@github.com:Chris7462/kalman_filter.git
-[submodule "src/localization/gps_imu_node"]
-	path = src/localization/gps_imu_node
-	url = git@github.com:Chris7462/gps_imu_node.git
 [submodule "src/localization/ekf_localizer"]
 	path = src/localization/ekf_localizer
-	url = git@github.com:Chris7462/ekf_localizer.git
-[submodule "src/perception/yolo_object_detection"]
-	path = src/perception/yolo_object_detection
-	url = git@github.com:Chris7462/yolo_object_detection.git
+	url = https://github.com/Chris7462/ekf_localizer.git
+[submodule "src/localization/gps_imu_node"]
+	path = src/localization/gps_imu_node
+	url = https://github.com/Chris7462/gps_imu_node.git
+[submodule "src/localization/kalman_filter"]
+	path = src/localization/kalman_filter
+	url = https://github.com/Chris7462/kalman_filter.git
 [submodule "src/localization/wheel_odom_node"]
 	path = src/localization/wheel_odom_node
-	url = git@github.com:Chris7462/wheel_odom_node.git
+	url = https://github.com/Chris7462/wheel_odom_node.git
+[submodule "src/perception/yolo_object_detection"]
+	path = src/perception/yolo_object_detection
+	url = https://github.com/Chris7462/yolo_object_detection.git
+[submodule "src/utilities/kitti_launches"]
+	path = src/utilities/kitti_launches
+	url = https://github.com/Chris7462/kitti_launches.git
+[submodule "src/utilities/kitti_to_ros2bag"]
+	path = src/utilities/kitti_to_ros2bag
+	url = https://github.com/Chris7462/kitti_to_ros2bag.git
+[submodule "src/utilities/kitti_urdf"]
+	path = src/utilities/kitti_urdf
+	url = https://github.com/Chris7462/kitti_urdf.git
+[submodule "src/utilities/trajectory_server"]
+	path = src/utilities/trajectory_server
+	url = https://github.com/Chris7462/trajectory_server.git
