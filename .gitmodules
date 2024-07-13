@@ -25,3 +25,6 @@
 [submodule "src/utilities/trajectory_server"]
 	path = src/utilities/trajectory_server
 	url = https://github.com/Chris7462/trajectory_server.git
+[submodule "src/perception/yolo_inference"]
+	path = src/perception/yolo_inference
+	url = https://github.com/Chris7462/yolo_inference.git
