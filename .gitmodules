@@ -28,3 +28,6 @@
 [submodule "src/perception/yolo_inference"]
 	path = src/perception/yolo_inference
 	url = https://github.com/Chris7462/yolo_inference.git
+[submodule "src/localization/iekf_localizer"]
+	path = src/localization/iekf_localizer
+	url = https://github.com/Chris7462/iekf_localizer.git
