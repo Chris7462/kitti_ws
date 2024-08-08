@@ -31,3 +31,6 @@
 [submodule "src/localization/local_gps_imu"]
 	path = src/localization/local_gps_imu
 	url = https://github.com/Chris7462/local_gps_imu.git
+[submodule "src/utilities/kitti_msgs"]
+	path = src/utilities/kitti_msgs
+	url = https://github.com/Chris7462/kitti_msgs.git
