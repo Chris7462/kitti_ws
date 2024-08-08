@@ -1,9 +1,6 @@
 [submodule "src/localization/ekf_localizer"]
 	path = src/localization/ekf_localizer
 	url = https://github.com/Chris7462/ekf_localizer.git
-[submodule "src/localization/gps_imu_node"]
-	path = src/localization/gps_imu_node
-	url = https://github.com/Chris7462/gps_imu_node.git
 [submodule "src/localization/kalman_filter"]
 	path = src/localization/kalman_filter
 	url = https://github.com/Chris7462/kalman_filter.git
@@ -31,3 +28,6 @@
 [submodule "src/localization/iekf_localizer"]
 	path = src/localization/iekf_localizer
 	url = https://github.com/Chris7462/iekf_localizer.git
+[submodule "src/localization/local_gps_imu"]
+	path = src/localization/local_gps_imu
+	url = https://github.com/Chris7462/local_gps_imu.git
