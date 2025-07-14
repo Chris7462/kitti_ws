@@ -37,3 +37,6 @@
 [submodule "src/perception/tensorrt_inferencer"]
 	path = src/perception/tensorrt_inferencer
 	url = https://github.com/Chris7462/tensorrt_inferencer.git
+[submodule "src/perception/fcn_segmentation"]
+	path = src/perception/fcn_segmentation
+	url = https://github.com/Chris7462/fcn_segmentation.git
