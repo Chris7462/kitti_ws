@@ -37,6 +37,6 @@
 [submodule "src/perception/fcn_segmentation"]
 	path = src/perception/fcn_segmentation
 	url = https://github.com/Chris7462/fcn_segmentation.git
-[submodule "src/perception/fcn_segmentation_trt"]
-	path = src/perception/fcn_segmentation_trt
-	url = https://github.com/Chris7462/fcn_segmentation_trt.git
+[submodule "src/perception/fcn_trt_backend"]
+	path = src/perception/fcn_trt_backend
+	url = https://github.com/Chris7462/fcn_trt_backend.git
