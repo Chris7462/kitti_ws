@@ -43,3 +43,6 @@
 [submodule "src/perception/fcn_torch_backend"]
 	path = src/perception/fcn_torch_backend
 	url = https://github.com/Chris7462/fcn_torch_backend.git
+[submodule "src/perception/fcos_torch_backend"]
+	path = src/perception/fcos_torch_backend
+	url = https://github.com/Chris7462/fcos_torch_backend.git
