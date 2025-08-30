@@ -52,3 +52,6 @@
 [submodule "src/libraries/hungarian_cpp"]
 	path = src/libraries/hungarian_cpp
 	url = https://github.com/Chris7462/hungarian_cpp.git
+[submodule "src/libraries/kalman_filter"]
+	path = src/libraries/kalman_filter
+	url = https://github.com/Chris7462/kalman_filter.git
