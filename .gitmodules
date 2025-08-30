@@ -52,3 +52,6 @@
 [submodule "src/perception/fcos_object_detection"]
 	path = src/perception/fcos_object_detection
 	url = https://github.com/Chris7462/fcos_object_detection.git
+[submodule "src/libraries/hungarian_cpp"]
+	path = src/libraries/hungarian_cpp
+	url = https://github.com/Chris7462/hungarian_cpp.git
