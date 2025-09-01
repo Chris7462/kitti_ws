@@ -55,3 +55,6 @@
 [submodule "src/libraries/kalman_filter"]
 	path = src/libraries/kalman_filter
 	url = https://github.com/Chris7462/kalman_filter.git
+[submodule "src/perception/sort_backend"]
+	path = src/perception/sort_backend
+	url = https://github.com/Chris7462/sort_backend.git
