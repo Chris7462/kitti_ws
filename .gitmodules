@@ -58,3 +58,6 @@
 [submodule "src/perception/sort_backend"]
 	path = src/perception/sort_backend
 	url = https://github.com/Chris7462/sort_backend.git
+[submodule "src/perception/sort_tracker"]
+	path = src/perception/sort_tracker
+	url = https://github.com/Chris7462/sort_tracker.git
