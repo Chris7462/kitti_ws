@@ -61,3 +61,12 @@
 [submodule "src/perception/sort_tracker"]
 	path = src/perception/sort_tracker
 	url = https://github.com/Chris7462/sort_tracker.git
+[submodule "src/perception/scnn_torch"]
+	path = src/perception/scnn_torch
+	url = https://github.com/Chris7462/scnn_torch.git
+[submodule "src/perception/scnn_torch_backend"]
+	path = src/perception/scnn_torch_backend
+	url = https://github.com/Chris7462/scnn_torch_backend.git
+[submodule "src/perception/scnn_trt_backend"]
+	path = src/perception/scnn_trt_backend
+	url = https://github.com/Chris7462/scnn_trt_backend.git
