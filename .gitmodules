@@ -64,3 +64,9 @@
 [submodule "src/perception/scnn_lane_detection"]
 	path = src/perception/scnn_lane_detection
 	url = https://github.com/Chris7462/scnn_lane_detection.git
+[submodule "src/localization/floam"]
+	path = src/localization/floam
+	url = https://github.com/Chris7462/floam.git
+[submodule "src/localization/floam_core"]
+	path = src/localization/floam_core
+	url = https://github.com/Chris7462/floam_core.git
