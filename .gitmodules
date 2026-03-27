@@ -70,3 +70,9 @@
 [submodule "src/localization/floam_core"]
 	path = src/localization/floam_core
 	url = https://github.com/Chris7462/floam_core.git
+[submodule "src/localization/mad_icp_core"]
+	path = src/localization/mad_icp_core
+	url = https://github.com/Chris7462/mad_icp_core.git
+[submodule "src/localization/mad_icp"]
+	path = src/localization/mad_icp
+	url = https://github.com/Chris7462/mad_icp.git
