@@ -1,8 +1,8 @@
 [submodule "src/localization/ekf_localizer"]
 	path = src/localization/ekf_localizer
 	url = https://github.com/Chris7462/ekf_localizer.git
-[submodule "src/localization/wheel_odom_node"]
-	path = src/localization/wheel_odom_node
+[submodule "src/localization/wheel_odom"]
+	path = src/localization/wheel_odom
 	url = https://github.com/Chris7462/wheel_odom_node.git
 [submodule "src/perception/yolo_object_detection"]
 	path = src/perception/yolo_object_detection
