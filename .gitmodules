@@ -28,9 +28,6 @@
 [submodule "src/localization/local_gps_imu"]
 	path = src/localization/local_gps_imu
 	url = https://github.com/Chris7462/local_gps_imu.git
-[submodule "src/utilities/kitti_msgs"]
-	path = src/utilities/kitti_msgs
-	url = https://github.com/Chris7462/kitti_msgs.git
 [submodule "src/perception/fcn_segmentation"]
 	path = src/perception/fcn_segmentation
 	url = https://github.com/Chris7462/fcn_segmentation.git
@@ -82,3 +79,6 @@
 [submodule "src/perception/rf_detr_trt_backend"]
 	path = src/perception/rf_detr_trt_backend
 	url = https://github.com/Chris7462/rf_detr_trt_backend.git
+[submodule "src/utilities/av_msgs"]
+	path = src/utilities/av_msgs
+	url = git@github.com:Chris7462/av_msgs.git
